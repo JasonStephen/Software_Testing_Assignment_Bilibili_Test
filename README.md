@@ -34,8 +34,7 @@
 您可以通过我的[GitHub个人主页](https://github.com/JasonStephen) 获取更多我的项目，感谢你的支持，也欢迎参考。
 
 
-
-----
+---
 
 ## 1. What is our project?
 Our project is a testing script aimed at some features of the Bilibili website, primarily using Python and Selenium. The goal is to test basic website functionalities.
@@ -67,3 +66,27 @@ After configuration, please run `run.bat` (it will check if `mobilephone.json` h
 
 ## 5. Other
 You can find more of my projects on my [GitHub profile](https://github.com/JasonStephen). Thank you for your support, and feel free to refer to them.
+
+---
+
+**Copyright (c) 2024 Jason_Stephen**
+
+**This software is licensed under the MIT License.**
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.
