@@ -69,9 +69,9 @@ You can find more of my projects on my [GitHub profile](https://github.com/Jason
 
 ---
 
-**Copyright (c) 2024 Jason_Stephen**
+## Copyright (c) 2024 Jason_Stephen
 
-**This software is licensed under the MIT License.**
+### This software is licensed under the MIT License.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
